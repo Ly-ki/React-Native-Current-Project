@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "66bc",
+      "user_fullname": "Barış Şimşek",
+      "user_email": "baris.simsek@dijitalari.com",
+      "user_password": "123"
+    },
+    {
+      "id": "18c5",
+      "user_fullname": "Test",
+      "user_email": "barissimsek@gmail.com",
+      "user_password": "123"
+    }
+  ],
+  "user": [
+    {
+      "id": "5e1f",
+      "user_fullname": "Barış şimşek",
+      "user_password": "baris.simsek@dijitalari.com",
+      "user_phone": "5389805748",
+      "selectedValue": "2"
+    },
+    {
+      "id": "5e1fdsf",
+      "user_fullname": "Zafer Şimşek",
+      "user_password": "baris.simsek@dijitalari.com",
+      "user_phone": "5389805748",
+      "selectedValue": "1"
+    },
+    {
+      "id": "c8ee",
+      "user_fullname": "Fuvyv",
+      "user_email": "b DC jvu",
+      "user_password": "1234"
+    },
+    {
+      "id": "c307",
+      "user_fullname": "İhsan Kıyıcı",
+      "user_password": "barissimsek723@gmail.com",
+      "user_phone": "i.kiyici@gmail.com",
+      "selectedValue": "1"
+    },
+    {
+      "id": "2447",
+      "user_fullname": "Barış Şimşek",
+      "user_password": "den@gmail.com",
+      "user_phone": "5389805748",
+      "selectedValue": "1"
+    }
+  ]
+}
